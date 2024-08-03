@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4bfe7f39-1cac-4743-853a-06e0271d4944" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/email/src/test/java/com/satvik/email/EmailSenderTest.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2jyg0VPeCCvkgKU09nEnj4pwqrT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.EmailApplication.executor": "Run",
+    "Application.EmailSenderTest.executor": "Run",
+    "JUnit.EmailApplicationTests (1).executor": "Run",
+    "JUnit.EmailApplicationTests.executor": "Run",
+    "JUnit.EmailSenderTest.emaiSenderTest.executor": "Run",
+    "JUnit.EmailSenderTest.executor": "Run",
+    "JUnit.EmailSenderTest.sendHtmlInEmail.executor": "Run",
+    "JUnit.email.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "kotlin-language-version-configured": "true",
+    "settings.editor.selected.configurable": "configurable.group.other"
+  }
+}]]></component>
+  <component name="RunManager" selected="JUnit.EmailSenderTest.emaiSenderTest">
+    <configuration name="EmailApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.satvik.email.EmailApplication" />
+      <module name="email" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.satvik.email.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EmailSenderTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EmailSenderTest" />
+      <module name="email" />
+      <option name="UNNAMED_CLASS_CONFIGURATION" value="true" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EmailApplicationTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="email" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.satvik.email.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="$PROJECT_DIR$/../../../../Program Files/Java/jdk-21" />
+      <option name="PACKAGE_NAME" value="com.satvik.email" />
+      <option name="MAIN_CLASS_NAME" value="com.satvik.email.EmailApplicationTests" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EmailApplicationTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Email sender project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.satvik.email.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.satvik.email" />
+      <option name="MAIN_CLASS_NAME" value="com.satvik.email.EmailApplicationTests" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EmailSenderTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="email" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.satvik.email.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.satvik.email" />
+      <option name="MAIN_CLASS_NAME" value="com.satvik.email.EmailSenderTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EmailSenderTest.emaiSenderTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="email" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.satvik.email.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.satvik.email" />
+      <option name="MAIN_CLASS_NAME" value="com.satvik.email.EmailSenderTest" />
+      <option name="METHOD_NAME" value="emaiSenderTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EmailSenderTest.sendHtmlInEmail" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="email" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.satvik.email.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.satvik.email" />
+      <option name="MAIN_CLASS_NAME" value="com.satvik.email.EmailSenderTest" />
+      <option name="METHOD_NAME" value="sendHtmlInEmail" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.EmailSenderTest.emaiSenderTest" />
+        <item itemvalue="JUnit.EmailSenderTest" />
+        <item itemvalue="JUnit.EmailSenderTest.sendHtmlInEmail" />
+        <item itemvalue="Application.EmailSenderTest" />
+        <item itemvalue="Application.EmailApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-4f524021" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4bfe7f39-1cac-4743-853a-06e0271d4944" name="Changes" comment="" />
+      <created>1722364512276</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1722364512276</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <dependency master-id="0" />
+          <properties class="org.springframework.beans.factory.BeanCreationException" package="org.springframework.beans.factory" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <dependency id="0" />
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Email_sender_project$EmailSenderTest_emaiSenderTest.ic" NAME="EmailSenderTest.emaiSenderTest Coverage Results" MODIFIED="1722369132623" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.satvik.email.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Email_sender_project$EmailSenderTest_sendHtmlInEmail.ic" NAME="EmailSenderTest.sendHtmlInEmail Coverage Results" MODIFIED="1722377748134" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.satvik.email.*</FILTER>
+    </SUITE>
+  </component>
+</project>
